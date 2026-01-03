@@ -87,7 +87,7 @@ It demonstrates the application of:
 - Populate the database with sample data while respecting constraints
 - Write queries to analyze relationships between entities
 
---
+---
 
 ## Future Enhancements
 - Add more threat groups, campaigns, and attacks to expand the dataset
