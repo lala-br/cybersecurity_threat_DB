@@ -50,7 +50,6 @@ JOIN Sponsor s ON t.S_name = s.S_name;
 SELECT Alias
 FROM Alias
 WHERE TG_name = 'APT28';
-```
 
 -- Find all attacks aimed at a specific target
 SELECT a.A_name, t.T_name
@@ -58,6 +57,7 @@ FROM Attack a
 JOIN AimsAt aa ON a.AttackID = aa.AttackID
 JOIN Target t ON aa.TargetID = t.TargetID
 WHERE t.T_name = 'NSA Servers';
+```
 
 ---
 
