@@ -29,7 +29,7 @@ The database contains the following tables:
 ### ERD Diagram
 The diagram below shows the structure of the CyberThreats database, including tables, relationships, and foreign key connections:
 
-![CyberThreats ERD](cybersecurity_threat_DB/design/CyberAttack.drawio.png)
+![CyberThreats ERD](design/CyberAttack.drawio.png)
 
 ---
 ## Getting Started
